@@ -27,5 +27,7 @@
 
 [ESP-WROOM-32 datasheet](/resources/esp32-wroom-32_datasheet_cn.pdf)
 
+(3)[几种常用的为Arduino供电方法](http://www.taichi-maker.com/homepage/arduino-projects-index/arduino-power-supply/)
+
 
 
