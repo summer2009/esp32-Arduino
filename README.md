@@ -25,7 +25,7 @@
 
 (2)ESP-WROOM-32 datasheet
 
-[ESP-WROOM-32 datasheet](/resources/esp_wroom_32.pdf)
+[ESP-WROOM-32 datasheet](/resources/esp32-wroom-32_datasheet_cn.pdf)
 
 
 
