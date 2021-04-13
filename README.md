@@ -20,7 +20,7 @@
 
 （1）WemOSD1R32板卡原理图
 
-![WemOSD1R32板卡原理图](/img/WemosD1R32原理图.jpg)
+![WemOSD1R32板卡原理图](/img/WemosD1R32板卡原理图.jpg)
 
 
 
