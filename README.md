@@ -23,5 +23,9 @@
 
 ![WemOSD1R32板卡原理图](/img/WemosD1R32板卡原理图.jpg)
 
+(2)ESP-WROOM-32 datasheet
+
+[ESP-WROOM-32 datasheet](/resources/esp_wroom_32.pdf)
+
 
 
