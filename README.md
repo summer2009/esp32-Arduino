@@ -6,6 +6,6 @@
 
 1、板卡 wemOS D1 R32
 
-![wemOSD1R32办卡](../img/wemOSD1R32.jpg)
+![WemOSD1R32办卡](../img/WemOS-D1-R32.jpg)
 
 
