@@ -31,5 +31,9 @@
 
 [几种常用的为Arduino供电方法](http://www.taichi-maker.com/homepage/arduino-projects-index/arduino-power-supply/)
 
+(4)Arduino学习资料
+
+[Arduino基础](http://www.taichi-maker.com/homepage/arduino-tutorial-index/)
+
 
 
