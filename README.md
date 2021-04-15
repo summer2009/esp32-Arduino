@@ -35,6 +35,8 @@
 
 [Arduino基础](http://www.taichi-maker.com/homepage/arduino-tutorial-index/)
 
+[使用ESP32搭建Web服务器 ](https://www.yiboard.com/thread-1217-1-1.html)
+
 4、项目实践
 
 （1）阳台养花湿度自动控制系统
